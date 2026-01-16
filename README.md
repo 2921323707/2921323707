@@ -14,11 +14,9 @@
 - 💬 **Ask me about**: Python full-stack, LLM applications, or debugging your toughest bugs!
 - ⚡ **Fun fact**: I generate acrostic poems with code and run on **hand-brewed coffee**.
   
-#### Socials
+### Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/陈峻屹) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2921323707cjy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AddAaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cjye29213@gmail.com) 
 ---
-#### Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/陈峻屹) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2921323707cjy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AddAaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cjye29213@gmail.com) 
 
 ### 💻 Tech Stack (Pink Theme)
 <p align="left">
