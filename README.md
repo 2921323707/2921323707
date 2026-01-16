@@ -31,14 +31,7 @@
 ---
 
 ### 📊 My GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2921323707&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=555&bg_color=fff0f5&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2921323707&layout=compact&title_color=ff69b4&icon_color=ff69b4&text_color=555&bg_color=fff0f5&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2921323707&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=555&dates=555&background=fff0f5&stroke=ffb6c1&hide_border=true" />
-</div>
+[![2921323707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2921323707&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
