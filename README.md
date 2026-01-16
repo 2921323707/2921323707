@@ -1,4 +1,3 @@
-<div align="center">   <a href="https://github.com/2921323707">     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+2921323707+🌸;Building+AI+Automation+Tools;Exploring+the+World+of+Rust;Welcome+to+my+profile!" alt="Typing SVG" />   </a> </div>
 
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/2921323707">2921323707</a> 👋</h1>
