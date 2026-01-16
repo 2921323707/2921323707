@@ -1,51 +1,64 @@
-![Vocaloid Chibi](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/refs/heads/main/img/vocaloid/vocaloidchibi.png)
-<div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/2921323707">2921323707</a> 👋</h1>
-  <p>🚀 Python Automation | LLM Explorer | Coffee Enthusiast ☕</p>
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="70%">
+      <h1>Hi, I'm 毛小驴 👋</h1>
+      <p>🤖 LLM Explorer · ☕ Coffee Powered Machine Learning</p>
+      <br>
+      <h3>💫 About Me</h3>
+      <ul>
+        <li>🛠️ Building Python automation tools & experimenting with LLM-driven code generation</li>
+        <li>🌱 Learning Rust (system-level thinking) & Frontend performance optimization</li>
+        <li>🤝 Open to open-source collaboration that solves real-world problems</li>
+        <li>📊 Interested in Machine Learning fundamentals & Data Visualization</li>
+        <li>💬 Ask me about Python full-stack, LLM applications, or tricky debugging</li>
+        <li>⚡ Fun fact: I generate acrostic poems with code and survive on hand-brew coffee</li>
+      </ul>
+    </td>
+    <td valign="center" align="center" width="35%">
+      <img src="https://i10.hoopchina.com.cn/b0adcb5a60071364dfa3ccd2c2f4609d_w_1256_h_1256_.jpeg?imageMogr2/format/webp/auto-orient?x-oss-process=image/resize,w_600/format,jpg/quality,Q_60" width="430px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💫 About Me
-- 🛠️ **Currently working on**: Building Python-based automation tools and exploring **LLMs** in code generation.
-- 👥 **Collaborations**: I'm looking for **Open-source projects** that solve real-world pain points.
-- 🤝 **Learning Path**: Diving deep into **Rust** for system-level programming and mastering **Frontend Performance**.
-- 🌱 **Interests**: Machine Learning fundamentals & Data Visualization.
-- 💬 **Ask me about**: Python full-stack, LLM applications, or debugging your toughest bugs!
-- ⚡ **Fun fact**: I generate acrostic poems with code and run on **hand-brewed coffee**.
-  
-### Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/陈峻屹) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2921323707cjy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AddAaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cjye29213@gmail.com) 
----
+## 💻 Tech Stack
 
-### 💻 Tech Stack (Pink Theme)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
+
 ---
 
-### 📊 My GitHub Stats
-[![2921323707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2921323707&theme=pink)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2921323707&theme=rose_pine" />
-</p>
+## 📊 GitHub Overview
+
+<table border="0">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2921323707&theme=default" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2921323707&theme=default" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2921323707&theme=default" /></td>
+  </tr>
+</table>
+
+
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2921323707&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+
+
