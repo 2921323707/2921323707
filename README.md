@@ -31,7 +31,7 @@
 ---
 
 ### 📊 My GitHub Stats
-[![2921323707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2921323707&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![2921323707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2921323707&theme=pink)
 
 ---
 
