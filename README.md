@@ -1,4 +1,4 @@
-
+![Vocaloid Chibi](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/refs/heads/main/img/vocaloid/vocaloidchibi.png)
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/2921323707">2921323707</a> 👋</h1>
   <p>🚀 Python Automation | LLM Explorer | Coffee Enthusiast ☕</p>
