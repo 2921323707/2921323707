@@ -1,25 +1,57 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB6C1&height=200&section=header&text=Hello%20World!%20🌸&fontSize=80&animation=fadeIn" />
+</div>
 
-🚀 About Me :<br>🛠️ I’m currently working on<br>Building Python-based automation tools and exploring the practical applications of large language models in code generation scenarios.<br>👥 I’m looking to collaborate on<br>Open-source projects and interesting technical practice projects, especially those that can improve development efficiency or solve real-world pain points.<br>🤝 I’m looking for help with<br>Learning Rust for system-level programming, and improving my skills in front-end engineering and performance optimization.<br>🌱 I’m currently learning<br>Exploring the fundamentals of machine learning and data visualization, and practicing how to build responsive web interfaces with modern CSS frameworks.<br>💬 Ask me about<br>Python full-stack development, LLM application development, or any technical problems you're facing—I'm happy to discuss them.<br>⚡ Fun fact<br>I can generate acrostic poems with code, and I need a cup of hand-brewed coffee every morning to kickstart my productivity ☕
+<div align="center">
+  <h1>Hi there, I'm <a href="https://github.com/2921323707">2921323707</a> 👋</h1>
+  <p>🚀 Python Automation | LLM Explorer | Coffee Enthusiast ☕</p>
+</div>
 
+---
 
-## 🌐 Socials:
+### 💫 About Me
+- 🛠️ **Currently working on**: Building Python-based automation tools and exploring **LLMs** in code generation.
+- 👥 **Collaborations**: I'm looking for **Open-source projects** that solve real-world pain points.
+- 🤝 **Learning Path**: Diving deep into **Rust** for system-level programming and mastering **Frontend Performance**.
+- 🌱 **Interests**: Machine Learning fundamentals & Data Visualization.
+- 💬 **Ask me about**: Python full-stack, LLM applications, or debugging your toughest bugs!
+- ⚡ **Fun fact**: I generate acrostic poems with code and run on **hand-brewed coffee**.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/陈峻屹) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2921323707cjy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AddAaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cjye29213@gmail.com) 
+---
 
-# 💻 Tech Stack:
+### 💻 Tech Stack (Pink Theme)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-# 📊 GitHub Stats:
+### 📊 My GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2921323707&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=555&bg_color=fff0f5&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2921323707&layout=compact&title_color=ff69b4&icon_color=ff69b4&text_color=555&bg_color=fff0f5&hide_border=true" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=2921323707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=2921323707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2921323707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2921323707&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=555&dates=555&background=fff0f5&stroke=ffb6c1&hide_border=true" />
+</div>
 
-  ## 💰 You can help me by Donating
+---
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dodokolu) 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2921323707/2921323707/output/github-contribution-grid-snake.svg">
+</picture>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2921323707&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
