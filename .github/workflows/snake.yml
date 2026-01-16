@@ -17,8 +17,11 @@ jobs:
         with:
           github_user_name: 2921323707
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF69B4&color_dots=%23ebedf0,%23ffb6c1,%23ff69b4,%23ff1493,%23c71585
+            # 浅色模式：梦幻蓝紫渐变
+            dist/github-contribution-grid-snake.svg?color_snake=#EEABE3&color_dots=#ebedf0,#cae9f7,#95d5f3,#42BAF0,#EEABE3
+            
+            # 暗黑模式：深邃背景下的梦幻渐变
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#EEABE3&color_dots=#161b22,#3e6b8a,#42BAF0,#959ee3,#EEABE3
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
