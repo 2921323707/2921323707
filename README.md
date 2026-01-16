@@ -32,7 +32,9 @@
 
 ### 📊 My GitHub Stats
 [![2921323707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2921323707&theme=pink)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2921323707&theme=rose_pine" />
+</p>
 ---
 
 ### 🐍 Contribution Snake
