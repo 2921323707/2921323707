@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td valign="center" align="center" width="35%">
-      <img src="https://i10.hoopchina.com.cn/b0adcb5a60071364dfa3ccd2c2f4609d_w_1256_h_1256_.jpeg?imageMogr2/format/webp/auto-orient?x-oss-process=image/resize,w_600/format,jpg/quality,Q_60" width="430px" />
+      <img src="https://i.pinimg.com/736x/7f/3f/03/7f3f037cc6703d804e68807547f47706.jpg" width="430px" />
     </td>
   </tr>
 </table>
