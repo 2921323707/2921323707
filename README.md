@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td valign="center" align="center" width="35%">
-      <img src="https://i.pinimg.com/736x/7f/3f/03/7f3f037cc6703d804e68807547f47706.jpg" width="430px" />
+      <img src="https://i.pinimg.com/1200x/b6/a4/c8/b6a4c85a28eada9322fca6dbd33b479f.jpg" width="430px" />
     </td>
   </tr>
 </table>
